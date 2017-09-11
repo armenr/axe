@@ -1,5 +1,7 @@
 # [**@ladjs/logger**](https://github.com/ladjs/logger)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ladjs/logger.svg)](https://greenkeeper.io/)
+
 [![build status](https://img.shields.io/travis/ladjs/logger.svg)](https://travis-ci.org/ladjs/logger)
 [![code coverage](https://img.shields.io/codecov/c/github/ladjs/logger.svg)](https://codecov.io/gh/ladjs/logger)
 [![code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
